@@ -1,0 +1,8 @@
+22:34:02 **** Incremental Build of configuration Debug for project Mini_Project1 ****
+Info: Internal Builder is used for build
+gcc -o Mini_Project1.exe "source\\Project_source.o" 
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/12.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Mini_Project1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+22:34:02 Build Failed. 1 errors, 0 warnings. (took 944ms)
+

@@ -1,0 +1,6 @@
+16:36:46 **** Incremental Build of configuration Debug for project Project_C ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "Src\\Mini_Project.o" "..\\Src\\Mini_Project.c" 
+gcc -o Project_C.exe "Src\\Mini_Project.o" "Src\\func.o" 
+Info: Nothing to build for Project_C
+Info: Nothing to build for Project_C
